@@ -40,10 +40,11 @@
             <td></td>
             <td><button class="btn btn-primary">SUBMIT</button></td>
         </tr>
-    </div>
-    </div>
-    </div>
+    
     </table>
+</div>
+</div>
+</div>
     
 </body>
 </html>
